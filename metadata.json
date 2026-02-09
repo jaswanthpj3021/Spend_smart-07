@@ -1,0 +1,8 @@
+{
+  "name": "Spend Smart",
+  "description": "A comprehensive AI-powered expense tracker and budget planner with visual analytics, community chat, and secure profile management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
